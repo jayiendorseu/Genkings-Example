@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         //this is test file
-        // tnhis is new test file
+        //helo rehul how r u
         // Do any additional setup after loading the view, typically from a nib.
     }
     
